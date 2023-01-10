@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="847bfda1-667f-46df-8239-98a10c502c55" name="Changes" comment="adiciona uma entrada de inteiro e apresenta o inteiro">
+    <list default="true" id="847bfda1-667f-46df-8239-98a10c502c55" name="Changes" comment="adiciona uma entrada de double e apresente na tela">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -14,6 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -58,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673371031960</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adiciona uma entrada de double e apresente na tela">
+      <created>1673372114108</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673372114108</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,7 +78,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="nova_funcionalidade" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -75,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="adiciona uma entrada de inteiro e apresenta o inteiro" />
-    <option name="LAST_COMMIT_MESSAGE" value="adiciona uma entrada de inteiro e apresenta o inteiro" />
+    <MESSAGE value="adiciona uma entrada de double e apresente na tela" />
+    <option name="LAST_COMMIT_MESSAGE" value="adiciona uma entrada de double e apresente na tela" />
   </component>
 </project>
