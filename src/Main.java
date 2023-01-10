@@ -5,9 +5,6 @@ public class Main {
 
 		System.out.printf("%s%n", "Hello World!");
 		Scanner input = new Scanner(System.in);
-//		System.out.print("Digite um numero inteiro: ");
-//		int numero = input.nextInt();
-//		System.out.printf("Você digitou: %d%n", numero);
 
 //		System.out.print("Digite um numero double: ");
 //		double numeroDouble = input.nextDouble();
@@ -16,5 +13,10 @@ public class Main {
 		System.out.print("Digite uma string: ");
 		String word = input.nextLine();
 		System.out.printf("Você digitou: %s%n", word);
+
+		System.out.print("Digite um numero inteiro: ");
+		int numero = input.nextInt();
+		System.out.printf("Você digitou: %d%n", numero);
+
 	}
 }
