@@ -9,5 +9,8 @@ public class Main {
 		int numero = input.nextInt();
 		System.out.printf("Você digitou: %d%n", numero);
 
+		System.out.print("Digite um numero double: ");
+		double numeroDouble = input.nextDouble();
+		System.out.printf("Você digitou: %.2f%n", numeroDouble);
 	}
 }
