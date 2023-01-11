@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="847bfda1-667f-46df-8239-98a10c502c55" name="Changes" comment="adiciona uma entrada de inteiro e apresenta o inteiro">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="847bfda1-667f-46df-8239-98a10c502c55" name="Changes" comment="cria inteiro na classe Nova" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -62,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673371031960</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cria classe Nova, remove comments e tira print redundante">
+      <created>1673414663483</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673414663483</updated>
+    </task>
+    <task id="LOCAL-00004" summary="cria inteiro na classe Nova">
+      <created>1673414738421</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673414738421</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,7 +95,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="mais_uma_funcionalidade" />
+                        <option value="new_feature" />
                       </list>
                     </value>
                   </entry>
@@ -91,6 +110,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="adiciona uma entrada de inteiro e apresenta o inteiro" />
-    <option name="LAST_COMMIT_MESSAGE" value="adiciona uma entrada de inteiro e apresenta o inteiro" />
+    <MESSAGE value="cria classe Nova, remove comments e tira print redundante" />
+    <MESSAGE value="cria inteiro na classe Nova" />
+    <option name="LAST_COMMIT_MESSAGE" value="cria inteiro na classe Nova" />
   </component>
 </project>
