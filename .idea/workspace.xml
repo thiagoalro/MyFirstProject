@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="847bfda1-667f-46df-8239-98a10c502c55" name="Changes" comment="remove entrada int e double e adiciona string">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="847bfda1-667f-46df-8239-98a10c502c55" name="Changes" comment="adiciona novamente o int">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="nova_funcionalidade" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673372647045</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adiciona novamente o int">
+      <created>1673372757214</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673372757214</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,7 +97,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="nova_funcionalidade" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -107,6 +114,7 @@
     <MESSAGE value="adiciona uma entrada de inteiro e apresenta o inteiro" />
     <MESSAGE value="adiciona uma entrada de double e apresente na tela" />
     <MESSAGE value="remove entrada int e double e adiciona string" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove entrada int e double e adiciona string" />
+    <MESSAGE value="adiciona novamente o int" />
+    <option name="LAST_COMMIT_MESSAGE" value="adiciona novamente o int" />
   </component>
 </project>
