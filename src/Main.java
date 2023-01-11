@@ -12,5 +12,8 @@ public class Main {
 		System.out.print("Digite um numero double: ");
 		double numeroDouble = input.nextDouble();
 		System.out.printf("Você digitou: %.2f%n", numeroDouble);
+
+
+		System.out.print("Programa encerrado!");
 	}
 }
